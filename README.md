@@ -1,6 +1,6 @@
 # Loan-elegibility-Prediction-M-L-
 jupyter notebook
-Author : Abhijit Nagargoje
+Author : vijay ladhane
 
 IDE: Jupyter Notebook
 
